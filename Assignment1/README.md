@@ -20,3 +20,7 @@ Implementing different Frequent-Itemset-Mining algorithms on the modified datase
   
 
 "DataSummary.csv" (Original dataset) is modified to "modified_dataset" by preprocessing. 
+
+All files are Ipython Notebook files which can be opened with Jupyter Notebook
+
+Note: Report is already included in output's of each python notebook
